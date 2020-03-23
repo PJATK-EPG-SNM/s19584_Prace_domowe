@@ -54,8 +54,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraControler.cs" />
+     <Compile Include="Assets\disappear.cs" />
      <Compile Include="Assets\platforma1.cs" />
      <Compile Include="Assets\player.cs" />
+     <Compile Include="Assets\spin.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Yuki/Desktop/stuff/UNITY/repositories/HOMEWORK/s19584_Prace_domowe/Praca_domowa_1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
