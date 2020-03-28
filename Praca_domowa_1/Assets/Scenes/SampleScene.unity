@@ -1031,7 +1031,7 @@ GameObject:
   - component: {fileID: 1091041766}
   - component: {fileID: 1091041765}
   m_Layer: 0
-  m_Name: platforma 2 (1)
+  m_Name: platforma 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
