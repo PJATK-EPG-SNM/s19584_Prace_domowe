@@ -35,7 +35,9 @@ public class Diver : MonoBehaviour
       else {
         anim.SetBool ("isWalking", false);
 	  }
-}
+
+      
+} 
 
     void OnCollisionEnter2D(Collision2D col){
      isGrounded = true;
