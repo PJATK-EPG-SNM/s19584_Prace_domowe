@@ -52,10 +52,20 @@ public class Praca_domowa : MonoBehaviour{
        Debug.Log = "Nie";
       }
 
-      if (strA == strB){
-      } else {
-       Debug.Log = "różne";
-	  }
+    if (pierwszy.Equals(drugi))
+        {
+        } else {
+            Debug.Log = "różne";
+        }
+
+
+        if ((logiczna && nie) == true)
+        {
+            Debug.Log = "True";
+        } else if ((logiczna || nie) == false)
+        {
+            Debug.Log = "false";
+        }
 
 
 
